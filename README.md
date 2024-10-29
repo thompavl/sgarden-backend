@@ -19,7 +19,7 @@ $ npm start
 ## Run tests
 
 ```sh
-$ npm test
+$ npm test 
 ```
 
 ## Development
